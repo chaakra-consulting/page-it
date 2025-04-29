@@ -36,7 +36,7 @@ class KontakController extends Controller
                 'pertanyaan' => $request->pertanyaan,
             ];
 
-            Mail::to('ikiraihann@gmail.com')->send(new KontakMail($dataMail));
+            Mail::to(env('MAIL_TO_ADDRESS'))->send(new KontakMail($dataMail));
 
             DB::commit();
             return redirect()->back()->with('success', 'Formulir berhasil dikirim.');
