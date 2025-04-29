@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\KontakController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -17,3 +18,5 @@ Route::get('/sistem/chaakra-custom', function () {
 Route::get('/layanan', function () {
     return view('layanan');
 });
+
+Route::post('/kontak/store', [KontakController::class, 'store'])->name('kontak.store');

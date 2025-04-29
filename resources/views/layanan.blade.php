@@ -3,7 +3,7 @@
 @section('content')
 
             <!-- Start:: Section-1 -->
-            <div class="landing-banner" id="home">
+            <div class="landing-banner landing-banner-small" id="home">
                 <section class="section">
                     <div class="container main-banner-container">
                         <div class="row">

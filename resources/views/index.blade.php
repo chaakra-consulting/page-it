@@ -16,9 +16,9 @@
                                         <span class="navy-text">Kembangkan Bisnis Anda bersama</span> 
                                         <span class="orange-text">Chaakra Consulting.</span>
                                     </p>
-                                    <div class="fs-22 mb-3 text-fixed-black op-7"> Ingin Meningkatkan Efektifitas Bisnis Menggunakan Teknologi IT ? Hubungi Kami Sekarang Untuk Konsultasi Gratis.</div>
+                                    <div class="fs-22 mb-3 text-fixed-black op-7"> Ingin Meningkatkan Efektifitas Bisnis Menggunakan Teknologi IT ? Segera Lakukan Konsultasi Gratis Sekarang!</div>
                                     <a href="https://wa.me/6285745509992" class="btn btn-wave btn-primary btn-lg">
-                                        Hubungi Kami
+                                        Free Konsultasi
                                     </a>
                                     <!-- <a href="https://themeforest.net/user/spruko/portfolio" target="_blank" class="m-1 btn btn-primary">
                                         Discover More
