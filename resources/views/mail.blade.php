@@ -97,7 +97,7 @@
                           <tbody>
                             <tr>
                               <td style="width:100px;">
-                                <img alt="image description" height="auto" src="http://127.0.0.1:8000/images/microland.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:14px;" width="100" />
+                                <img alt="image description" height="auto" src="{{ asset('Tema/dist/assets/images/landing/chaakra.png') }}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:14px;" width="100" />
                               </td>
                             </tr>
                           </tbody>
